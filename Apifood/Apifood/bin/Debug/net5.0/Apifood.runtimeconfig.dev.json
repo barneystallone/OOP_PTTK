@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\letha\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\letha\\.nuget\\packages",
+      "D:\\Visual Studio 2022\\Shared\\NuGetPackages"
+    ]
+  }
+}
