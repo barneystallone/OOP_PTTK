@@ -1,0 +1,410 @@
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\appsettings.Development.json
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\appsettings.json
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Apifood.exe
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Apifood.deps.json
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Apifood.runtimeconfig.json
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Apifood.runtimeconfig.dev.json
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Apifood.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ref\Apifood.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Apifood.pdb
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\Apifood.csproj.AssemblyReference.cache
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\Apifood.GeneratedMSBuildEditorConfig.editorconfig
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\Apifood.AssemblyInfoInputs.cache
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\Apifood.AssemblyInfo.cs
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\Apifood.csproj.CoreCompileInputs.cache
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\Apifood.MvcApplicationPartsAssemblyInfo.cs
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\Apifood.MvcApplicationPartsAssemblyInfo.cache
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\staticwebassets\Apifood.StaticWebAssets.Manifest.cache
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\staticwebassets\Apifood.StaticWebAssets.xml
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\scopedcss\bundle\Apifood.styles.css
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\Apifood.RazorTargetAssemblyInfo.cache
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\Apifood.dll
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\ref\Apifood.dll
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\Apifood.pdb
+D:\dulieuwed\Apifood\Apifood\obj\Debug\net5.0\Apifood.genruntimeconfig.cache
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Humanizer.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\dulieuwed\Apifood\Apifood\bin\Debug\net5.0\BCrypt.Net-Next.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\appsettings.Development.json
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\appsettings.json
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Apifood.exe
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Apifood.deps.json
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Apifood.runtimeconfig.json
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Apifood.runtimeconfig.dev.json
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Apifood.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Apifood.pdb
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\BCrypt.Net-Next.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Humanizer.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.csproj.AssemblyReference.cache
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.GeneratedMSBuildEditorConfig.editorconfig
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.AssemblyInfoInputs.cache
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.AssemblyInfo.cs
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.csproj.CoreCompileInputs.cache
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.MvcApplicationPartsAssemblyInfo.cs
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.MvcApplicationPartsAssemblyInfo.cache
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\staticwebassets\Apifood.StaticWebAssets.Manifest.cache
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\scopedcss\bundle\Apifood.styles.css
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.RazorTargetAssemblyInfo.cache
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.csproj.CopyComplete
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\ref\Apifood.dll
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.pdb
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\Apifood.genruntimeconfig.cache
+E:\FoodWeb_HKI R\Apifood\Apifood\bin\Debug\net5.0\web.config
+E:\FoodWeb_HKI R\Apifood\Apifood\obj\Debug\net5.0\refint\Apifood.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\web.config
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\appsettings.Development.json
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\appsettings.json
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Apifood.exe
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Apifood.deps.json
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Apifood.runtimeconfig.json
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Apifood.runtimeconfig.dev.json
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Apifood.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Apifood.pdb
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\BCrypt.Net-Next.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Humanizer.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.csproj.AssemblyReference.cache
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.GeneratedMSBuildEditorConfig.editorconfig
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.AssemblyInfoInputs.cache
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.AssemblyInfo.cs
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.csproj.CoreCompileInputs.cache
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.MvcApplicationPartsAssemblyInfo.cs
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.MvcApplicationPartsAssemblyInfo.cache
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\scopedcss\bundle\Apifood.styles.css
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\staticwebassets\Apifood.StaticWebAssets.Manifest.cache
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.RazorTargetAssemblyInfo.cache
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.csproj.CopyComplete
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\refint\Apifood.dll
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.pdb
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\Apifood.genruntimeconfig.cache
+E:\FoodWeb_HKI ADMIN FE\Apifood\Apifood\obj\Debug\net5.0\ref\Apifood.dll
